@@ -5,7 +5,7 @@
     </p>
     <img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px">
     <p>
-        I'm currently working at <a href="https://www.stilingue.com.br"> Stilingue AI </a> as <strong>Senior Frontend Developer</strong>
+        I work at <a href="https://www.stilingue.com.br"> Stilingue AI </a> as <strong>Senior Frontend Developer</strong>
     </p>
 </div>
 
