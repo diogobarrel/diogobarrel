@@ -1,16 +1,43 @@
-### Hi there 👋
 
-<!--
-**diogobarrel/diogobarrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <p >
+    Hi! I'm diogobarrel, i enjoy programming and anything software/hardware related.
+    </p>
+    <img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px">
+    <p>
+        I'm currently working at <a href="https://www.stilingue.com.br"> Stilingue AI </a> as <strong>Senior Frontend Developer</strong>
+    </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h3 align="center">
+  I'm currently working with:
+</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" min-width="50px" max-width="50px" width="50px"/>
+</div>
+<div align="center">
+<h3 align="center">
+  Also trying
+</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" min-width="50px" max-width="50px" width="50px"/>
+</div>
