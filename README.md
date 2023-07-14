@@ -5,7 +5,7 @@
     </p>
     <img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px">
     <p>
-        I work at <a href="https://www.blip.ai"> Stilingue AI </a> as <strong>Site Reliability Engineer</strong>
+        I work at <a href="https://www.blip.ai"> Blip AI </a> as <strong>Site Reliability Engineer</strong>
     </p>
 </div>
 
