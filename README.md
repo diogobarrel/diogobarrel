@@ -1,11 +1,11 @@
 
 <div align="center">
     <p >
-    Hi! I'm diogobarrel, i enjoy programming and anything software/hardware related.
+    Hi! I'm diogo and i really enjoy programming and anything software/hardware related.
     </p>
     <img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px">
     <p>
-        I work at <a href="https://www.stilingue.com.br"> Stilingue AI </a> as <strong>Senior Frontend Developer</strong>
+        I work at <a href="https://www.blip.ai"> Stilingue AI </a> as <strong>Site Reliability Engineer</strong>
     </p>
 </div>
 
