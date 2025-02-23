@@ -5,7 +5,7 @@
     </p>
     <img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px">
     <p>
-        I work at <a href="https://www.blip.ai"> Blip AI </a> as <strong>Tech Lead</strong>
+        Working at <a href="https://www.blip.ai"> Blip AI </a> as <strong>Tech Lead</strong>
     </p>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div align="center">
 <h3 align="center">
-  I'm currently working with:
+  Currently currently working with:
 </h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" min-width="50px" max-width="50px" width="50px"/>
